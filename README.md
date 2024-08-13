@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Braian</h1>
-<h3 align="center">A passionate backend developer from Brasil</h3>
+<h1 align="center">👋 Olá, sou Braian</h1>
+<h3 align="center">🎓 Estudante de Ciência da Computação 4/8 ⏳ | Técnico em Informática ✅</h3>
 
-- 📫 How to reach me **Braian.ptu@gmil.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=braianmelo&label=Profile%20views&color=0e75b6&style=flat" alt="braianmelo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braianmelo" alt="braianmelo" /></a> </p>
+
+- 📫 How to reach me **Braian.ptu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braianmelo&show_icons=true&locale=en&layout=compact" alt="braianmelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braianmelo&show_icons=true&locale=en" alt="braianmelo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braianmelo&" alt="braianmelo" /></p>
