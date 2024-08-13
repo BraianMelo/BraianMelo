@@ -6,8 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braianmelo" alt="braianmelo" /></a> </p>
 
 - 📫 Como me encontrar: **Braian.ptu@gmail.com**
+- 💼 Projeto atual: [Arrumando os meus códigos antigos](https://github.com/BraianMelo/tic-tac-toe) 
+- 🌱 O que estou aprendendo atualmente: **Frontend**
+- ⚡ Fun fact: **Odeio frontend**
 
-- ⚡ Fun fact **Odeio frontend**
+**Sinta-se à vontade para explorar meus repositórios!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
