@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braianmelo" alt="braianmelo" /></a> </p>
 
 - 📫 Como me encontrar: **Braian.ptu@gmail.com**
-- 💼 Projeto atual: [Sistema Solar no OpenGL](https://github.com/BraianMelo/Sistema_Solar_OpenGL)
+- 💼 Projeto atual: **[Sistema Solar no OpenGL](https://github.com/BraianMelo/Sistema_Solar_OpenGL)**
 - 🌱 O que estou aprendendo atualmente: **Frontend**
 - ⚡ Fun fact: **Odeio frontend**
 
