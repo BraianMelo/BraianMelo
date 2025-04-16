@@ -1,6 +1,12 @@
 <h1 align="center">👋 Olá, sou Braian</h1>
 <h3 align="center">🎓 Estudante de Ciência da Computação6/8 ⏳ | Técnico em Informática ✅</h3>
 
+- 💼 Projeto atual: [Compilador](https://github.com/BraianMelo/Compilador)
+
+- 🌱 O que estou aprendendo atualmente: **Desenvolvimento Web**
+
+- 📫 Como me encontrar: **Braian.ptu@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/braian melo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braian melo" height="30" width="40" /></a>
