@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braianmelo&show_icons=true&locale=en&layout=compact" alt="braianmelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braianmelo&show_icons=true&locale=en" alt="braianmelo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braianmelo&" alt="braianmelo" /></p>
