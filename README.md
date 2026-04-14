@@ -45,10 +45,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BraianMelo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"  />
+  <img src="https://streak-stats.demolab.com?user=BraianMelo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats"/>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=BraianMelo&theme=dracula&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
-     height="150"
-     alt="GitHub Trophies" />
+       height="150"
+       alt="GitHub Trophies"/>
 </div>
 
 ###
