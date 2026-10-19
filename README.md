@@ -40,6 +40,11 @@
          height="25"
          alt="instagram logo" />
   </a>
+  <a href="https://braianmelo.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=githubpages&label=&color=6E2A2A&logoColor=white&labelColor=&style=for-the-badge"
+         height="25"
+         alt="portfólio" />
+  </a>
 </div>
 
 ###
